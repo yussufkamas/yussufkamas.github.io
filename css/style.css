@@ -1,0 +1,13 @@
+
+.container{
+    display: flex;
+    padding-left: 50px;
+}
+
+.itm{
+    padding-top: 18px;
+}
+
+.itm1{
+    padding-left: 20px;
+}
